@@ -1,4 +1,4 @@
-# PDF to SVG Converter
+# A PDF Converter
 
 An offline, user-friendly Python-based tool for Windows designed to convert PDF files into SVG format with a simple graphical interface. Users can easily select a PDF file, start the conversion with a single click, and track progress through a built-in progress bar. Each page of the PDF is exported as a separate SVG file with accurate vector rendering.
 
@@ -12,7 +12,7 @@ An offline, user-friendly Python-based tool for Windows designed to convert PDF 
 
 ## Usage
 
-1. **Convert PDF to SVG**:  
+1. **A PDF Converter**:  
    - Click **"Click to Select PDF File"** and choose a PDF file.  
    - Click **"Convert to SVG"** to begin conversion.  
    - The program creates a new folder (e.g., `DocumentName_SVGs`) containing the resulting SVG files.  
